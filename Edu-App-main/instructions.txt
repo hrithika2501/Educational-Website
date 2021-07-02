@@ -1,0 +1,11 @@
+Go through it, before starting.
+
+1) For Each Component like Navbar, Footer, Carousel_Home, Card_Grades, Card_OtherCourses make different css files. In the end, would merge all the css files into a single stylesheet.
+
+2) First Fork this repository, then clone this repository using git clone "your-link".
+
+3) For pushing your code, first see if your local repository is even with the main repository. Then make a new branch and push.
+
+4) If your local repository is not upto date, first make a pull request and then pull it, then push your code.
+
+5) If working with VS Code, add an extension of "Live Server", then right-click on your HTML File, and the local site would open up.
